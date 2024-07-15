@@ -38,7 +38,7 @@ My career reflects my core values: an enduring commitment to lifelong learning, 
 ### 📚 Education
 - **Zero To Mastery Academy**: A.I. Machine Learning and Data Science - Certificate
 - **Zero To Mastery Academy**: Prompt Engineering Bootcamp - Certificate
-- **Full Sail University**: Bachelor of Science in Audio Production
+- **Full Sail University**: Bachelor of Science in Computer Science 
 - **Ventura College**: Associate of Ecology and Computer Technology
 
 ### 📬 Connect with Me
