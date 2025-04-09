@@ -9,7 +9,7 @@ I make music, teach machines, study nature, and build things. Dive in to explore
 ### About Me
 My career reflects my core values: an enduring commitment to lifelong learning, a deep dedication to environmental stewardship, and an insatiable curiosity that drives my exploration and innovation. These values guide my work across various domains.
 
-- **Musician**: Crafted over 250+ custom songs for customers at SongFinch. [Listen to my work](https://www.beckettdillon.com).
+- **Musician**: Crafted over 250+ custom songs for customers at SongFinch. [Listen to my work](https://open.spotify.com/artist/0WAAOmZcou75sYvsUAOpF7?si=Y8uC8XjbR1i4sw-fYwUSNQ).
 - **AI Developer**: Developed projects like ANIMA and Nexus, and the Vodalus Expert LLM app stack.
 - **Naturalist**: Committed to environmental stewardship and sustainable practices.
 
