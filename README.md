@@ -1,33 +1,27 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="wave-dark.svg">
-  <img alt="One continuous ink line that changes character across four mediums: soil and water, sound, wood and print, models and code" src="wave-light.svg" width="100%">
-</picture>
+<a href="https://beckett-dillon.com"><img src="assets/hero.svg" width="100%" alt="Beckett Dillon, applied AI engineer. One ink line changes character across soil and water, sound, wood and print, and models and code."></a>
 
-### Beckett Dillon
-
-Applied AI engineer. I learn how a system behaves, whether it is a watershed, a song or a language model, and build tools that work with it.
-
-Right now I am a Senior Forward Deployed AI Engineer and AI Consultant at Adobe, embedded with enterprise customers across the Adobe stack: Photoshop, Illustrator and Premiere Pro plugins, Firefly Services and the Photoshop and InDesign APIs, App Builder backends, Firefly Creative Production workflows and AEM. That client work is private, so the case studies live on [my site](https://beckett-dillon.com/work).
+I am a Senior Forward Deployed AI Engineer and AI Consultant at Adobe, embedded with enterprise customers across the Adobe stack: Photoshop, Illustrator and Premiere Pro plugins, Firefly Services and the Photoshop and InDesign APIs, App Builder backends, Firefly Creative Production workflows and AEM. That client work is private, so the case studies live on [my site](https://beckett-dillon.com/work).
 
 Before code I led habitat restoration crews and planted more than 250,000 trees, built heirloom furniture and wrote more than 300 commissioned songs. I am open to new roles in climate, agriculture and conservation tech, creative and audio tools, and applied AI anywhere it has to hold up in production.
 
-[beckett-dillon.com](https://beckett-dillon.com) · [LinkedIn](https://www.linkedin.com/in/beckettdillon/) · [Hugging Face](https://huggingface.co/Severian) · [Email](mailto:beckettdillon42@gmail.com)
+**[beckett-dillon.com](https://beckett-dillon.com)** · [LinkedIn](https://www.linkedin.com/in/beckettdillon/) · [Hugging Face](https://huggingface.co/Severian) · [Email](mailto:beckettdillon42@gmail.com) · [Music](https://open.spotify.com/artist/0WAAOmZcou75sYvsUAOpF7)
 
-#### Open source
+<br>
 
-| | | |
-|---|---|---|
-| [GraphRAG-Local-UI](https://github.com/severian42/GraphRAG-Local-UI) | Microsoft’s GraphRAG on local models through Ollama and LM Studio, with indexing, prompt tuning, query and graph views | 2,321 stars · 291 forks |
-| [Vodalus Expert LLM Forge](https://github.com/severian42/Vodalus-Expert-LLM-Forge) | Builds fine-tuning datasets grounded in RAG and Wikipedia, then trains on them with MLX and Unsloth | 195 stars |
-| [MoA-Ollama-Chat](https://github.com/severian42/MoA-Ollama-Chat) | Mixture-of-agents for local models: several small models draft and one aggregates | 116 stars |
-| [BDH-MLX](https://github.com/severian42/BDH-MLX) | Pathway’s Dragon Hatchling architecture ported from PyTorch to Apple MLX, at about twice the training throughput | |
-| [Mycomind Daemon](https://github.com/severian42/Mycomind-Daemon-Ollama-Mixture-of-Memory-RAG-Agents) | A local assistant that pairs several models with memory, retrieval and web search | |
-| [Firewatch](https://github.com/severian42/Firewatch) | A civil-rights companion in 13 languages ([live](https://firewatch-ice.vercel.app)) | |
+<a href="https://github.com/severian42/GraphRAG-Local-UI"><img src="assets/project-1.svg" width="49%" alt="GraphRAG Local UI"></a> <a href="https://github.com/severian42/Vodalus-Expert-LLM-Forge"><img src="assets/project-2.svg" width="49%" alt="Vodalus"></a>
 
-#### Open models
+<a href="https://github.com/severian42/MoA-Ollama-Chat"><img src="assets/project-3.svg" width="49%" alt="MoA Ollama Chat"></a> <a href="https://github.com/severian42/BDH-MLX"><img src="assets/project-4.svg" width="49%" alt="BDH-MLX"></a>
 
-46 models and 7 datasets on [Hugging Face](https://huggingface.co/Severian) with 188,000 downloads, plus 138,000 more on community re-quantizations. The best known is [ANIMA](https://huggingface.co/Severian/ANIMA-Phi-Neptune-Mistral-7B), a 7B model fine-tuned to reason through biomimicry: how living systems already solve an engineering problem.
+<a href="https://github.com/severian42/Mycomind-Daemon-Ollama-Mixture-of-Memory-RAG-Agents"><img src="assets/project-5.svg" width="49%" alt="Mycomind Daemon"></a> <a href="https://github.com/severian42/Firewatch"><img src="assets/project-6.svg" width="49%" alt="Firewatch"></a>
 
-#### Off the keyboard
+<br>
 
-Four-colour PETG prints on a Bambu Lab H2S, furniture from blueprints, and [music](https://open.spotify.com/artist/0WAAOmZcou75sYvsUAOpF7).
+<a href="https://huggingface.co/Severian"><img src="assets/forest.svg" width="100%" alt="A forest of trees, one for each model released on Hugging Face, sized by downloads"></a>
+
+<details>
+<summary><b>How these cards are made</b></summary>
+<br>
+
+Every card on this page is drawn by [`tools/build.ts`](tools/build.ts) in the same ink and pigments as [beckett-dillon.com](https://beckett-dillon.com), with the fonts subset and embedded. A [GitHub Action](.github/workflows/refresh.yml) redraws them each morning from the GitHub and Hugging Face APIs, so the star counts and the forest stay current. Each tree grows from a seed taken from the model’s name, using the same generator as the printable tree hidden on my site.
+
+</details>
